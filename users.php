@@ -260,7 +260,7 @@ echo "<script>alert('Fitness Status Changed');</script>";
                   </div>
                   <!-- /.card-body -->
                 </div>
-                <!-- /.card -->
+                <!-- /.card .-->
 
 
                 <?php
