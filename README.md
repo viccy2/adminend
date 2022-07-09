@@ -1,2 +1,2 @@
 # adminend
- codeigiter project..
+ Symfony project
